@@ -13,3 +13,7 @@ If pages result that are relative to a review I'll add them, probably as png fil
 
 ## kindle notes
 I'll try and export what I've highlighted and commented on.
+
+## to read
+I think some lists and thoughts and plans for how to tackle my insane backlog
+will be added. Likewise, figuring out which books to buy...
